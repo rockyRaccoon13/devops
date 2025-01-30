@@ -189,7 +189,7 @@ steps:
     uses: actions/checkout@v4
 ```
 
-Then it installs Node.js version 20.
+Then it installs Node.js version 22.
 
 ```yml
 - name: Setup Node
